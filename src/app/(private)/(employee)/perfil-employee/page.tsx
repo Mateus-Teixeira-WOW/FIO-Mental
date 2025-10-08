@@ -53,10 +53,10 @@ export default function Dashboard() {
                         Seu questionário está sendo avaliado em nosso sistema, o prazo mínimo de entrega do diagnóstico é de 1 semana.
                     </div>
                     <div className="flex justify-center gap-4 flex-wrap">
-                        <a href="/consult-employee/">
+                        <a href="/consultation/">
                         <Button className="bg-primary text-primary-foreground">Marcar Consulta</Button>
                         </a>
-                        <a href="/perfil-employee/">
+                        <a href="/perfil/">
                         <Button variant="outline">Ver Perfil</Button>
                         </a>
                     </div>
